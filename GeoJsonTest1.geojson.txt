@@ -1,0 +1,10 @@
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [45.909512, -108.282706]
+},
+"properties": {
+"GPSTime": "134253267"
+}
+}
