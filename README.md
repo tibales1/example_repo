@@ -1,4 +1,4 @@
-# example_repo
+# Tom Bales FinTech Repo
 
 ## Wire Sizing
 1. thing
