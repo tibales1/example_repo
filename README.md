@@ -2,12 +2,13 @@
 ---
 ## Hi, My Name is **Tom** and I'm a GIS Software Architect
 - I work at Frontier Communications
-- I used to a Systems Architect
+- I used to be a Systems Architect at a railroad company
 
 ---
 ## ***My Carrer Goals***
 1. Succeed as a Software Architect
 2. Learn about FinTech concepts
+3. Learn python for the FinTech Industry
 
 ### Why FinTech?
 ------
